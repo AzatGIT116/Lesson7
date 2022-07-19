@@ -1,0 +1,15 @@
+D:\Lesson7\Zadacha48\bin\Debug\net6.0\Zadacha48.exe
+D:\Lesson7\Zadacha48\bin\Debug\net6.0\Zadacha48.deps.json
+D:\Lesson7\Zadacha48\bin\Debug\net6.0\Zadacha48.runtimeconfig.json
+D:\Lesson7\Zadacha48\bin\Debug\net6.0\Zadacha48.dll
+D:\Lesson7\Zadacha48\bin\Debug\net6.0\Zadacha48.pdb
+D:\Lesson7\Zadacha48\obj\Debug\net6.0\Zadacha48.csproj.AssemblyReference.cache
+D:\Lesson7\Zadacha48\obj\Debug\net6.0\Zadacha48.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lesson7\Zadacha48\obj\Debug\net6.0\Zadacha48.AssemblyInfoInputs.cache
+D:\Lesson7\Zadacha48\obj\Debug\net6.0\Zadacha48.AssemblyInfo.cs
+D:\Lesson7\Zadacha48\obj\Debug\net6.0\Zadacha48.csproj.CoreCompileInputs.cache
+D:\Lesson7\Zadacha48\obj\Debug\net6.0\Zadacha48.dll
+D:\Lesson7\Zadacha48\obj\Debug\net6.0\refint\Zadacha48.dll
+D:\Lesson7\Zadacha48\obj\Debug\net6.0\Zadacha48.pdb
+D:\Lesson7\Zadacha48\obj\Debug\net6.0\Zadacha48.genruntimeconfig.cache
+D:\Lesson7\Zadacha48\obj\Debug\net6.0\ref\Zadacha48.dll
